@@ -3,8 +3,16 @@
   "version": "4.0.0",
   "description": "eslint plugin for egrand",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyuweixin/eslint-plugin-egrand.git"
+  },
   "author": "Simple",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuyuweixin/eslint-plugin-egrand/issues"
+  },
+  "homepage": "https://github.com/wuyuweixin/eslint-plugin-egrand#readme",
   "scripts": {
     "test": "mocha tests --recursive"
   },
