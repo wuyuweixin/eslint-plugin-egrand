@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-egrand",
+  "version": "4.0.0",
+  "description": "eslint plugin for egrand",
+  "main": "index.js",
+  "author": "Simple",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "peerDependencies": {
+    "eslint": "^5.11.1 || ^6.0.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^7.5.0",
+    "mocha": "^8.2.1"
+  }
+}
